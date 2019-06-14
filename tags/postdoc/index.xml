@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PostDoc on Division of Formal Methods</title>
+    <link>https://example.com/tags/postdoc/</link>
+    <description>Recent content in PostDoc on Division of Formal Methods</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jun 2019 11:31:20 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/postdoc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thomas Sewell</title>
+      <link>https://example.com/people/thomassewell/</link>
+      <pubDate>Fri, 14 Jun 2019 11:31:20 +0200</pubDate>
+      
+      <guid>https://example.com/people/thomassewell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pablo Picazo-Sanchez</title>
+      <link>https://example.com/people/pablopicazosanchez/</link>
+      <pubDate>Fri, 14 Jun 2019 11:30:44 +0200</pubDate>
+      
+      <guid>https://example.com/people/pablopicazosanchez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yehia Abd Alrahman</title>
+      <link>https://example.com/people/yehia-abd-alrahman/</link>
+      <pubDate>Fri, 14 Jun 2019 11:30:40 +0200</pubDate>
+      
+      <guid>https://example.com/people/yehia-abd-alrahman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandro Stucki</title>
+      <link>https://example.com/people/sandrostucki/</link>
+      <pubDate>Fri, 14 Jun 2019 11:30:32 +0200</pubDate>
+      
+      <guid>https://example.com/people/sandrostucki/</guid>
+      <description>Sandro Stucki:  Research area: In my research, I like to explore the many aspects of programming languages. I&amp;rsquo;m particularly interested in type systems and theory, the semantics and implementation of domain-specific languages, as well as formal methods for scientific modeling. Until recently, I spent my time pondering the type safety of Scala and related type systems. These days, I’m busy applying formal methods and type theory to problems in privacy and security, and hacking type soundness proofs in Agda.</description>
+    </item>
+    
+  </channel>
+</rss>
