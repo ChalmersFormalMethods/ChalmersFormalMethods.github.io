@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>alumni on Division of Formal Methods</title>
-    <link>http://ChalmersFormalMethods.github.io/tags/alumni/</link>
+    <link>/tags/alumni/</link>
     <description>Recent content in alumni on Division of Formal Methods</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Jun 2019 11:49:56 +0200</lastBuildDate>
     
-	<atom:link href="http://ChalmersFormalMethods.github.io/tags/alumni/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/alumni/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Carlo Furia</title>
-      <link>http://ChalmersFormalMethods.github.io/people/carlofuria/</link>
+      <link>/people/carlofuria/</link>
       <pubDate>Fri, 14 Jun 2019 11:49:56 +0200</pubDate>
       
-      <guid>http://ChalmersFormalMethods.github.io/people/carlofuria/</guid>
+      <guid>/people/carlofuria/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Raúl Pardo</title>
-      <link>http://ChalmersFormalMethods.github.io/people/raulpardo/</link>
+      <link>/people/raulpardo/</link>
       <pubDate>Fri, 14 Jun 2019 11:34:43 +0200</pubDate>
       
-      <guid>http://ChalmersFormalMethods.github.io/people/raulpardo/</guid>
+      <guid>/people/raulpardo/</guid>
       <description> Raúl Pardo:  Research area: My research is focused on developing rigorous techniques to design, analyse and build software to protect online privacy. My interests lie at the intersection of formal methods, online privacy and computer security. Currently, I am working in the following topics:Formal models for privacy, Verification of smart contracts, Algorithm transparency [[https://dblp.org/pers/hd/p/Pardo:Ra=uacute=l][dblp link]] [[http://raulpardo.net][personal page]]   </description>
     </item>
     
     <item>
       <title>Simon Robillard</title>
-      <link>http://ChalmersFormalMethods.github.io/people/simonrobillard/</link>
+      <link>/people/simonrobillard/</link>
       <pubDate>Fri, 14 Jun 2019 11:32:41 +0200</pubDate>
       
-      <guid>http://ChalmersFormalMethods.github.io/people/simonrobillard/</guid>
+      <guid>/people/simonrobillard/</guid>
       <description> Simon Robillard:  Research area: first-order theorem proving and its applications to program verification, more specifically my research interests are: Automated reasoning, Theorem proving, program verification, Type theory and Parallel programming [[https://dblp.uni-trier.de/pers/hd/r/Robillard:Simon][dblp link]] [[http://www.cse.chalmers.se/~simrob/][personal page]]   </description>
     </item>
     
     <item>
       <title>Jesús Mauricio Chimento</title>
-      <link>http://ChalmersFormalMethods.github.io/people/jesusmauriciochimento/</link>
+      <link>/people/jesusmauriciochimento/</link>
       <pubDate>Fri, 14 Jun 2019 11:32:30 +0200</pubDate>
       
-      <guid>http://ChalmersFormalMethods.github.io/people/jesusmauriciochimento/</guid>
+      <guid>/people/jesusmauriciochimento/</guid>
       <description> Jesús Mauricio Chimento:  Research area: My research interests focus on studying Formal Methods, Certified Programming and Functional Programming. Regarding Formal Methods, I am keen on studying Program Specification and Program Verification, in particular Theorem Proving and Runtime Verification. [[https://dblp.uni-trier.de/pers/hd/c/Chimento:Jes=uacute=s_Mauricio][dblp link]] [[http://cse-212294.cse.chalmers.se/chimento/][personal page]]   </description>
     </item>
     
