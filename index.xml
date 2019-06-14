@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Division of Formal Methods</title>
-    <link>https://example.com/</link>
+    <link>http://ChalmersFormalMethods.github.io/</link>
     <description>Recent content on Division of Formal Methods</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Jun 2019 14:22:15 +0200</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ChalmersFormalMethods.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>List of Publications</title>
-      <link>https://example.com/publication/</link>
+      <link>http://ChalmersFormalMethods.github.io/publication/</link>
       <pubDate>Fri, 14 Jun 2019 14:22:15 +0200</pubDate>
       
-      <guid>https://example.com/publication/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/publication/</guid>
       <description>Under construction.</description>
     </item>
     
     <item>
       <title>Yu-Ting Jeff Chen</title>
-      <link>https://example.com/people/jeff/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/jeff/</link>
       <pubDate>Fri, 14 Jun 2019 11:53:17 +0200</pubDate>
       
-      <guid>https://example.com/people/jeff/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/jeff/</guid>
       <description>Hello my name is Jeff and I work at the division of Formal Method. I am a PhD student at Chalmers University of Technology, under the supervision of Professor Carlo A. Furia.
 Research interests :=
 + Formal Methods,
@@ -38,181 +38,181 @@ supervisor := Prof. Carlo A. Furia / Prof. Laura Kovács / Prof. Wolfgang Ahrend
     
     <item>
       <title>Carlo Furia</title>
-      <link>https://example.com/people/carlofuria/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/carlofuria/</link>
       <pubDate>Fri, 14 Jun 2019 11:49:56 +0200</pubDate>
       
-      <guid>https://example.com/people/carlofuria/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/carlofuria/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Raúl Pardo</title>
-      <link>https://example.com/people/raulpardo/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/raulpardo/</link>
       <pubDate>Fri, 14 Jun 2019 11:34:43 +0200</pubDate>
       
-      <guid>https://example.com/people/raulpardo/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/raulpardo/</guid>
       <description> Raúl Pardo:  Research area: My research is focused on developing rigorous techniques to design, analyse and build software to protect online privacy. My interests lie at the intersection of formal methods, online privacy and computer security. Currently, I am working in the following topics:Formal models for privacy, Verification of smart contracts, Algorithm transparency [[https://dblp.org/pers/hd/p/Pardo:Ra=uacute=l][dblp link]] [[http://raulpardo.net][personal page]]   </description>
     </item>
     
     <item>
       <title>Claudia Cauli</title>
-      <link>https://example.com/people/claudia-cauli/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/claudia-cauli/</link>
       <pubDate>Fri, 14 Jun 2019 11:34:34 +0200</pubDate>
       
-      <guid>https://example.com/people/claudia-cauli/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/claudia-cauli/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alejandro Gómez Londoño</title>
-      <link>https://example.com/people/alejandrogomezlondono/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/alejandrogomezlondono/</link>
       <pubDate>Fri, 14 Jun 2019 11:33:51 +0200</pubDate>
       
-      <guid>https://example.com/people/alejandrogomezlondono/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/alejandrogomezlondono/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Oskar Abrahamsson</title>
-      <link>https://example.com/people/oskarabrahamsson/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/oskarabrahamsson/</link>
       <pubDate>Fri, 14 Jun 2019 11:33:22 +0200</pubDate>
       
-      <guid>https://example.com/people/oskarabrahamsson/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/oskarabrahamsson/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Andreas Lööw</title>
-      <link>https://example.com/people/andreasloow/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/andreasloow/</link>
       <pubDate>Fri, 14 Jun 2019 11:33:02 +0200</pubDate>
       
-      <guid>https://example.com/people/andreasloow/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/andreasloow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hanaa Alshareef</title>
-      <link>https://example.com/people/hanaaalshareef/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/hanaaalshareef/</link>
       <pubDate>Fri, 14 Jun 2019 11:32:57 +0200</pubDate>
       
-      <guid>https://example.com/people/hanaaalshareef/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/hanaaalshareef/</guid>
       <description> TODO [[https://research.chalmers.se/en/person/hanaa][personal page]]  </description>
     </item>
     
     <item>
       <title>Simon Robillard</title>
-      <link>https://example.com/people/simonrobillard/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/simonrobillard/</link>
       <pubDate>Fri, 14 Jun 2019 11:32:41 +0200</pubDate>
       
-      <guid>https://example.com/people/simonrobillard/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/simonrobillard/</guid>
       <description> Simon Robillard:  Research area: first-order theorem proving and its applications to program verification, more specifically my research interests are: Automated reasoning, Theorem proving, program verification, Type theory and Parallel programming [[https://dblp.uni-trier.de/pers/hd/r/Robillard:Simon][dblp link]] [[http://www.cse.chalmers.se/~simrob/][personal page]]   </description>
     </item>
     
     <item>
       <title>Jesús Mauricio Chimento</title>
-      <link>https://example.com/people/jesusmauriciochimento/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/jesusmauriciochimento/</link>
       <pubDate>Fri, 14 Jun 2019 11:32:30 +0200</pubDate>
       
-      <guid>https://example.com/people/jesusmauriciochimento/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/jesusmauriciochimento/</guid>
       <description> Jesús Mauricio Chimento:  Research area: My research interests focus on studying Formal Methods, Certified Programming and Functional Programming. Regarding Formal Methods, I am keen on studying Program Specification and Program Verification, in particular Theorem Proving and Runtime Verification. [[https://dblp.uni-trier.de/pers/hd/c/Chimento:Jes=uacute=s_Mauricio][dblp link]] [[http://cse-212294.cse.chalmers.se/chimento/][personal page]]   </description>
     </item>
     
     <item>
       <title>Thomas Sewell</title>
-      <link>https://example.com/people/thomassewell/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/thomassewell/</link>
       <pubDate>Fri, 14 Jun 2019 11:31:20 +0200</pubDate>
       
-      <guid>https://example.com/people/thomassewell/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/thomassewell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pablo Picazo-Sanchez</title>
-      <link>https://example.com/people/pablopicazosanchez/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/pablopicazosanchez/</link>
       <pubDate>Fri, 14 Jun 2019 11:30:44 +0200</pubDate>
       
-      <guid>https://example.com/people/pablopicazosanchez/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/pablopicazosanchez/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yehia Abd Alrahman</title>
-      <link>https://example.com/people/yehia-abd-alrahman/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/yehia-abd-alrahman/</link>
       <pubDate>Fri, 14 Jun 2019 11:30:40 +0200</pubDate>
       
-      <guid>https://example.com/people/yehia-abd-alrahman/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/yehia-abd-alrahman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sandro Stucki</title>
-      <link>https://example.com/people/sandrostucki/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/sandrostucki/</link>
       <pubDate>Fri, 14 Jun 2019 11:30:32 +0200</pubDate>
       
-      <guid>https://example.com/people/sandrostucki/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/sandrostucki/</guid>
       <description>Sandro Stucki:  Research area: In my research, I like to explore the many aspects of programming languages. I&amp;rsquo;m particularly interested in type systems and theory, the semantics and implementation of domain-specific languages, as well as formal methods for scientific modeling. Until recently, I spent my time pondering the type safety of Scala and related type systems. These days, I’m busy applying formal methods and type theory to problems in privacy and security, and hacking type soundness proofs in Agda.</description>
     </item>
     
     <item>
       <title>Laura Kovács</title>
-      <link>https://example.com/people/laurakovacs/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/laurakovacs/</link>
       <pubDate>Fri, 14 Jun 2019 11:30:27 +0200</pubDate>
       
-      <guid>https://example.com/people/laurakovacs/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/laurakovacs/</guid>
       <description> Laura Kovacs: Professor  Research area: My research is on formal software analysis and verification. More specifically, I am interested in designing new methods for computer-aided verification by combining: automated theorem proving, automated assertion generation, symbolic computation. [[https://dblp.uni-trier.de/pers/hd/k/Kov=aacute=cs:Laura][dblp link]] [[http://www.cse.chalmers.se/~laurako/][personal page]] related projects: [[https://vprover.github.io][Vampire: resolution-based automatic theorem prover]]   </description>
     </item>
     
     <item>
       <title>Nir Piterman</title>
-      <link>https://example.com/people/nirpiterman/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/nirpiterman/</link>
       <pubDate>Fri, 14 Jun 2019 11:30:22 +0200</pubDate>
       
-      <guid>https://example.com/people/nirpiterman/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/nirpiterman/</guid>
       <description> Nir Piterman: Professor  Research area: My research interests include formal verification and automata theory. I have worked (and still am) on model checking of various types of systems, different aspects of temporal logic, as well as synthesis and game solving. I am also working on applications of formal methods to biological modeling. [[https://dblp.uni-trier.de/pers/hd/p/Piterman:Nir][dblp link]] TODO [[https://www.cs.le.ac.uk/people/npiterman/][personal page]] related projects: TODO [[https://www.cs.le.ac.uk/people/npiterman/][DSynMA: Distributed Synthesis from Single to Multiple Agents]]   </description>
     </item>
     
     <item>
       <title>Moa Johansson</title>
-      <link>https://example.com/people/moajohansson/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/moajohansson/</link>
       <pubDate>Fri, 14 Jun 2019 11:30:16 +0200</pubDate>
       
-      <guid>https://example.com/people/moajohansson/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/moajohansson/</guid>
       <description>Professor + Research area: learning and exploration in automated theorem proving, automated reasoning about recursive programs, reasoning for program analysis, automated discovery of inductive lemmas. + [[https://dblp.uni-trier.de/pers/hd/j/Johansson:Moa][dblp link]] + [[http://www.cse.chalmers.se/~jomoa/][personal page]] + related projects: - [[http://hackage.haskell.org/package/quickspec][QuickSpec]] - [[https://github.com/danr/hipspec][HipSpec]]</description>
     </item>
     
     <item>
       <title>Magnus Myreen</title>
-      <link>https://example.com/people/magnusmyreen/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/magnusmyreen/</link>
       <pubDate>Fri, 14 Jun 2019 11:30:06 +0200</pubDate>
       
-      <guid>https://example.com/people/magnusmyreen/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/magnusmyreen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wolfgang Ahrendt</title>
-      <link>https://example.com/people/wolfgangahrendt/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/wolfgangahrendt/</link>
       <pubDate>Fri, 14 Jun 2019 11:30:03 +0200</pubDate>
       
-      <guid>https://example.com/people/wolfgangahrendt/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/wolfgangahrendt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Gerardo Schneider</title>
-      <link>https://example.com/people/gerardoschneider/</link>
+      <link>http://ChalmersFormalMethods.github.io/people/gerardoschneider/</link>
       <pubDate>Fri, 14 Jun 2019 11:29:56 +0200</pubDate>
       
-      <guid>https://example.com/people/gerardoschneider/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/people/gerardoschneider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Education Program at FM</title>
-      <link>https://example.com/education/</link>
+      <link>http://ChalmersFormalMethods.github.io/education/</link>
       <pubDate>Thu, 13 Jun 2019 14:26:49 +0200</pubDate>
       
-      <guid>https://example.com/education/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/education/</guid>
       <description>Master Thesis Projects Our research group at Chalmers provides high quality FM-related courses as well as researh-oriented master thesis opportunities. If you are looking for FM-related master thesis topics, please take a look at here.
 Courses Formal Methods for Software Development TDA294/DIT271 Link to Page
 Formal Methods is a generic term for system design, analysis, and implementation methods that are described and used with mathematical rigor. The purpose is to construct, with high confidence, systems that behave according to their specification.</description>
@@ -220,10 +220,10 @@ Formal Methods is a generic term for system design, analysis, and implementation
     
     <item>
       <title>Research Projects / Tools</title>
-      <link>https://example.com/projects/</link>
+      <link>http://ChalmersFormalMethods.github.io/projects/</link>
       <pubDate>Thu, 13 Jun 2019 14:26:49 +0200</pubDate>
       
-      <guid>https://example.com/projects/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/projects/</guid>
       <description>CakeML CakeML is a functional programming language and an ecosystem of proofs and tools built around the language. The ecosystem includes a proven-correct compiler that can bootstrap itself.
 To Project Website
 Hipster Hipster is a system integrating theory exploration with the proof assistant Isabelle/HOL. Theory exploration is a technique for automatically discovering new interesting lemmas in a given theory development.
@@ -233,10 +233,10 @@ Vampire Automatic theorem proving has a number of important applications, such a
     
     <item>
       <title>Formal Methods Division</title>
-      <link>https://example.com/about/</link>
+      <link>http://ChalmersFormalMethods.github.io/about/</link>
       <pubDate>Thu, 13 Jun 2019 13:59:05 +0200</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>http://ChalmersFormalMethods.github.io/about/</guid>
       <description>Our group performs research on the development and use of formal specification languages and verification approaches for different applications, including low- and high-level software, and (legal) contract analysis. Specification languages include classical and modal logics, and our verification techniques comprise model checking, automated reasoning, interactive theorem proving, static and runtime verification, and testing.</description>
     </item>
     
