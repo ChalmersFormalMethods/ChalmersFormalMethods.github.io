@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Division Head on Division of Formal Methods</title>
+    <link>/tags/division-head/</link>
+    <description>Recent content in Division Head on Division of Formal Methods</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 14 Jun 2019 11:29:56 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/division-head/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gerardo Schneider</title>
+      <link>/people/gerardoschneider/</link>
+      <pubDate>Fri, 14 Jun 2019 11:29:56 +0200</pubDate>
+      
+      <guid>/people/gerardoschneider/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
